@@ -1,0 +1,869 @@
+"mrcuis"|"sab"|"code"|"str"
+C2247561|GO|GO:0034023|"5-(carboxyamino)imidazole ribonucleotide mutase activity"
+C1156545|GO|GO:0006117|acetaldehyde metabolic process
+C1148665|GO|GO:0022848|acetylcholine-gated cation-selective channel activity
+C1149827|GO|GO:0003990|acetylcholinesterase activity
+C1149245|GO|GO:0003779|actin binding
+C0025979|GO|GO:0015629|actin cytoskeleton
+C0025979|GO|GO:0005884|actin filament
+C1159825|GO|GO:0006919|activation of cysteine-type endopeptidase activity involved in apoptotic process
+C1749719|GO|GO:0002250|adaptive immune response
+C1151015|GO|GO:0004016|adenylate cyclase activity
+C0887872|GO|GO:0005912|adherens junction
+C0282636|GO|GO:0009060|aerobic respiration
+C0001807|GO|GO:0002118|aggressive behavior
+C3269198|GO|GO:0097242|amyloid-beta clearance
+C4327150|GO|GO:0106003|amyloid-beta complex
+C3544412|GO|GO:1990000|amyloid fibril formation
+C1327111|GO|GO:0042983|amyloid precursor protein biosynthetic process
+C1327340|GO|GO:0042982|amyloid precursor protein metabolic process
+C1323350|GO|GO:0050681|androgen receptor binding
+C0302600|GO|GO:0001525|angiogenesis
+C1148575|GO|GO:0003823|antigen binding
+C0206431|GO|GO:0019882|antigen processing and presentation
+C1148564|GO|GO:0016209|antioxidant activity
+C0162638|GO|GO:0006915|apoptotic process
+C1156810|GO|GO:0006525|arginine metabolic process
+C1149824|GO|GO:0004064|arylesterase activity
+C0009649|GO|GO:0008306|associative learning
+C1326121|GO|GO:0048143|astrocyte activation
+C1657435|GO|GO:0048708|astrocyte differentiation
+C1151885|GO|GO:0061660|Atg12 ligase activity
+C3887595|GO|GO:0005776|autophagosome
+C4690086|GO|GO:0061909|autophagosome-lysosome fusion
+C1820119|GO|GO:0000422|autophagy of mitochondrion
+C0596142|GO|GO:0030849|autosome
+C0004461|GO|GO:0030424|axon
+C0004462|GO|GO:0098930|axonal transport
+C1160337|GO|GO:0007409|axonogenesis
+C3269084|GO|GO:0097137|BAD-BCL-xl complex
+C1158530|GO|GO:0006284|base-excision repair
+C0004799|GO|GO:0005604|basement membrane
+C0004927|GO|GO:0007610|behavior
+C0242358|GO|GO:0005923|bicellular tight junction
+C1167622|GO|GO:0005488|binding
+C3714634|GO|GO:0008150|biological_process
+C0006660|GO|GO:0031214|biomineral tissue development
+C0220781|GO|GO:0009058|biosynthetic process
+C0005775|GO|GO:0008015|blood circulation
+C1155364|GO|GO:0030509|BMP signaling pathway
+C2350989|GO|GO:0030282|bone mineralization
+C0005974|GO|GO:0045453|bone resorption
+C1160340|GO|GO:0007420|brain development
+C1323580|GO|GO:0047498|calcium-dependent phospholipase A2 activity
+C0600431|GO|GO:0019722|calcium-mediated signaling
+C0699900|GO|GO:0009056|catabolic process
+C1151515|GO|GO:0004096|catalase activity
+C0243102|GO|GO:0003824|catalytic activity
+C0230653|GO|GO:0005901|caveola
+C0007634|GO|GO:0005623|cell
+C1326120|GO|GO:0001775|cell activation
+C0007577|GO|GO:0007155|cell adhesion
+C1149545|GO|GO:0050839|cell adhesion molecule binding
+C0007581|GO|GO:0007569|cell aging
+C1154413|GO|GO:0007267|cell-cell signaling
+C0007582|GO|GO:0007154|cell communication
+C0007586|GO|GO:0007049|cell cycle
+C1155873|GO|GO:0007050|cell cycle arrest
+C3544383|GO|GO:0044770|cell cycle phase transition
+C0007587|GO|GO:0008219|cell death
+C0007589|GO|GO:0030154|cell differentiation
+C0007590|GO|GO:0051301|cell division
+C0599733|GO|GO:0001906|cell killing
+C1156287|GO|GO:0045454|cell redox homeostasis
+C0699040|GO|GO:0009986|cell surface
+C1166607|GO|GO:0005575|cellular_component
+C2612269|GO|GO:0044085|cellular component biogenesis
+C2244223|GO|GO:0019725|cellular homeostasis
+C1158356|GO|GO:0042180|cellular ketone metabolic process
+C1524026|GO|GO:0044237|cellular metabolic process
+C1325880|GO|GO:0009987|cellular process
+C0282636|GO|GO:0045333|cellular respiration
+C1155342|GO|GO:0034620|cellular response to unfolded protein
+C0007581|GO|GO:0090398|cellular senescence
+C1160339|GO|GO:0007417|central nervous system development
+C3890362|GO|GO:0061684|chaperone-mediated autophagy
+C0008018|GO|GO:0006935|chemotaxis
+C0008018|GO|GO:0043577|chemotropism
+C0008266|GO|GO:0009507|chloroplast
+C2246761|GO|GO:0033344|cholesterol efflux
+C1156530|GO|GO:0008203|cholesterol metabolic process
+C1159709|GO|GO:0030301|cholesterol transport
+C1156210|GO|GO:0006338|chromatin remodeling
+C0008633|GO|GO:0005694|chromosome
+C0376628|GO|GO:0031052|chromosome breakage
+C0598175|GO|GO:0007059|chromosome segregation
+C1817997|GO|GO:0002544|chronic inflammatory response
+C0443616|GO|GO:0034360|chylomicron remnant
+C0008810|GO|GO:0007623|circadian rhythm
+C0009240|GO|GO:0050890|cognition
+C2246343|GO|GO:0032964|collagen biosynthetic process
+C0009528|GO|GO:0006956|complement activation
+C0009546|GO|GO:0006957|complement activation, alternative pathway
+C2248778|GO|GO:0043854|cyclic nucleotide-gated mechanosensitive ion channel activity
+C1157325|GO|GO:0019371|cyclooxygenase pathway
+C1155099|GO|GO:0042089|cytokine biosynthetic process
+C1327413|GO|GO:0001816|cytokine production
+C1327414|GO|GO:0050663|cytokine secretion
+C0010813|GO|GO:0000910|cytokinesis
+C0010834|GO|GO:0005737|cytoplasm
+C0010853|GO|GO:0005856|cytoskeleton
+C1383501|GO|GO:0005829|cytosol
+C4042777|GO|GO:0140059|dendrite arborization
+C0872341|GO|GO:0043197|dendritic spine
+C2753223|GO|GO:0060996|dendritic spine development
+C0025516|GO|GO:0098754|detoxification
+C1511806|GO|GO:0032502|developmental process
+C0012238|GO|GO:0007586|digestion
+C1148673|GO|GO:0003677|DNA binding
+C1158478|GO|GO:0015074|DNA integration
+C0376452|GO|GO:0006306|DNA methylation
+C0034865|GO|GO:0006310|DNA recombination
+C0012899|GO|GO:0006281|DNA repair
+C0598312|GO|GO:0006260|DNA replication
+C1523689|GO|GO:0035240|dopamine binding
+C1154437|GO|GO:0042417|dopamine metabolic process
+C0683140|GO|GO:0017144|drug metabolic process
+C1154689|GO|GO:0015893|drug transport
+C0887883|GO|GO:0005769|early endosome
+C0015745|GO|GO:0042755|eating behavior
+C0230899|GO|GO:0071953|elastic fiber
+C2244392|GO|GO:0022900|electron transport chain
+C0029976|GO|GO:0007566|embryo implantation
+C0887883|GO|GO:0030139|endocytic vesicle
+C0014139|GO|GO:0006897|endocytosis
+C0014239|GO|GO:0005783|endoplasmic reticulum
+C1166837|GO|GO:0005788|endoplasmic reticulum lumen
+C0230770|GO|GO:0005789|endoplasmic reticulum membrane
+C0034850|GO|GO:0005768|endosome
+C3157043|GO|GO:0097009|energy homeostasis
+C1523298|GO|GO:0001837|epithelial to mesenchymal transition
+C1155303|GO|GO:0006983|ER overload response
+C0014819|GO|GO:0030218|erythrocyte differentiation
+C1157310|GO|GO:0006703|estrogen biosynthetic process
+C1158342|GO|GO:0008210|estrogen metabolic process
+C1148776|GO|GO:0030284|estrogen receptor activity
+C1516988|GO|GO:0060076|excitatory synapse
+C0221102|GO|GO:0007588|excretion
+C1150037|GO|GO:0004308|exo-alpha-sialidase activity
+C0015283|GO|GO:0006887|exocytosis
+C0015350|GO|GO:0031012|extracellular matrix
+C0521119|GO|GO:0005576|extracellular region
+C0015352|GO|GO:0005615|extracellular space
+C0015745|GO|GO:0007631|feeding behavior
+C0032961|GO|GO:0007565|female pregnancy
+C0015852|GO|GO:0006113|fermentation
+C0016017|GO|GO:0042730|fibrinolysis
+C1157079|GO|GO:0046655|folic acid metabolic process
+C0017127|GO|GO:0035483|gastric emptying
+C0017262|GO|GO:0010467|gene expression
+C0598496|GO|GO:0016458|gene silencing
+C0017626|GO|GO:0097426|glial filament
+C1160350|GO|GO:0042063|gliogenesis
+C0232809|GO|GO:0003094|glomerular filtration
+C2610739|GO|GO:0070091|glucagon secretion
+C1159527|GO|GO:0046323|glucose import
+C0596620|GO|GO:0006006|glucose metabolic process
+C1151821|GO|GO:0004352|glutamate dehydrogenase (NAD+) activity
+C0599784|GO|GO:0005977|glycogen metabolic process
+C0017952|GO|GO:0006096|glycolytic process
+C1156899|GO|GO:0006024|glycosaminoglycan biosynthetic process
+C0017982|GO|GO:0070085|glycosylation
+C0018042|GO|GO:0005794|Golgi apparatus
+C1152760|GO|GO:0045028|G protein-coupled purinergic nucleotide receptor activity
+C0018270|GO|GO:0040007|growth
+C1154417|GO|GO:0030252|growth hormone secretion
+C1152525|GO|GO:0005096|GTPase activator activity
+C0599175|GO|GO:0006783|heme biosynthetic process
+C1159801|GO|GO:0015886|heme transport
+C0019116|GO|GO:0007599|hemostasis
+C2612461|GO|GO:0034364|high-density lipoprotein particle
+C1156200|GO|GO:0016573|histone acetylation
+C1149629|GO|GO:0004407|histone deacetylase activity
+C1156199|GO|GO:0016570|histone modification
+C0019868|GO|GO:0042592|homeostatic process
+C1327009|GO|GO:0050667|homocysteine metabolic process
+C1167395|GO|GO:0018995|host
+C1155229|GO|GO:0006959|humoral immune response
+C0020517|GO|GO:0002524|hypersensitivity
+C1166825|GO|GO:0008385|IkappaB kinase complex
+C0301872|GO|GO:0006955|immune response
+C1817756|GO|GO:0002376|immune system process
+C1155250|GO|GO:0016064|immunoglobulin mediated immune response
+C0003261|GO|GO:0002377|immunoglobulin production
+C3888108|GO|GO:0098657|import into cell
+C0887839|GO|GO:0051170|import into nucleus
+C0007637|GO|GO:0016234|inclusion body
+C0020969|GO|GO:0045087|innate immune response
+C1619351|GO|GO:0060384|innervation
+C3547574|GO|GO:1901143|insulin catabolic process
+C1150624|GO|GO:0005010|insulin-like growth factor-activated receptor activity
+C1256369|GO|GO:0030073|insulin secretion
+C1167322|GO|GO:0016021|integral component of membrane
+C1149209|GO|GO:0004915|interleukin-6 receptor activity
+C1149419|GO|GO:0005138|interleukin-6 receptor binding
+C1819461|GO|GO:0032637|interleukin-8 production
+C0021826|GO|GO:0050892|intestinal absorption
+C0021838|GO|GO:0120054|intestinal motility
+C0175996|GO|GO:0005622|intracellular
+C1159772|GO|GO:0006886|intracellular protein transport
+C1155494|GO|GO:0035556|intracellular signal transduction
+C0599814|GO|GO:0046907|intracellular transport
+C3269143|GO|GO:0097193|intrinsic apoptotic signaling pathway
+C1326962|GO|GO:0050801|ion homeostasis
+C0162585|GO|GO:0006811|ion transport
+C1156273|GO|GO:0055072|iron ion homeostasis
+C1159668|GO|GO:0006826|iron ion transport
+C3821794|GO|GO:1902224|ketone body metabolic process
+C1150423|GO|GO:0016301|kinase activity
+C0022925|GO|GO:0007595|lactation
+C1158820|GO|GO:0019086|late viral transcription
+C1154338|GO|GO:0007611|learning or memory
+C1154393|GO|GO:0007159|leukocyte cell-cell adhesion
+C1326500|GO|GO:0050900|leukocyte migration
+C0085200|GO|GO:0097413|Lewy body
+C1148636|GO|GO:0008289|lipid binding
+C0023796|GO|GO:0016042|lipid catabolic process
+C2262744|GO|GO:0055088|lipid homeostasis
+C0598783|GO|GO:0006629|lipid metabolic process
+C1158406|GO|GO:0030258|lipid modification
+C2612546|GO|GO:0034440|lipid oxidation
+C0596846|GO|GO:0006869|lipid transport
+C1326470|GO|GO:0042953|lipoprotein transport
+C1744691|GO|GO:0051179|localization
+C0423909|GO|GO:0007616|long-term memory
+C0206249|GO|GO:0060291|long-term synaptic potentiation
+C0230812|GO|GO:0005765|lysosomal membrane
+C1155615|GO|GO:0016237|lysosomal microautophagy
+C0024369|GO|GO:0005764|lysosome
+C1155604|GO|GO:0016236|macroautophagy
+C0024426|GO|GO:0042116|macrophage activation
+C2754814|GO|GO:0071608|macrophage inflammatory protein-1 alpha production
+C1156006|GO|GO:0030011|maintenance of cell polarity
+C0752319|GO|GO:0000165|MAPK cascade
+C1150579|GO|GO:0004707|MAP kinase activity
+C1150604|GO|GO:0004708|MAP kinase kinase activity
+C1260875|GO|GO:0007618|mating
+C0596901|GO|GO:0016020|membrane
+C0887868|GO|GO:0098857|membrane microdomain
+C1167250|GO|GO:0045121|membrane raft
+C1326279|GO|GO:0001765|membrane raft assembly
+C0025260|GO|GO:0007613|memory
+C0025320|GO|GO:0042697|menopause
+C1523298|GO|GO:0060231|mesenchymal to epithelial transition
+C0025519|GO|GO:0008152|metabolic process
+C1154714|GO|GO:0046911|metal chelating activity
+C1323274|GO|GO:0046872|metal ion binding
+C0025558|GO|GO:0007552|metamorphosis
+C0025723|GO|GO:0032259|methylation
+C1326169|GO|GO:0001774|microglial cell activation
+C0026046|GO|GO:0005874|microtubule
+C1149274|GO|GO:0008017|microtubule binding
+C1156032|GO|GO:0046785|microtubule polymerization
+C0230871|GO|GO:0000266|mitochondrial fission
+C1156067|GO|GO:0008053|mitochondrial fusion
+C0230840|GO|GO:0005743|mitochondrial inner membrane
+C0596952|GO|GO:0031966|mitochondrial membrane
+C0230839|GO|GO:0005741|mitochondrial outer membrane
+C0678851|GO|GO:0006839|mitochondrial transport
+C0026237|GO|GO:0005739|mitochondrion
+C1820119|GO|GO:0000423|mitophagy
+C0026258|GO|GO:0072686|mitotic spindle
+C1148560|GO|GO:0003674|molecular_function
+C0007591|GO|GO:0000279|M phase
+C0230825|GO|GO:0005771|multivesicular body
+C0026846|GO|GO:0014889|muscle atrophy
+C0026820|GO|GO:0006936|muscle contraction
+C0596991|GO|GO:0042552|myelination
+C0026973|GO|GO:0043209|myelin sheath
+C0025979|GO|GO:0036379|myofilament
+C0027540|GO|GO:0070265|necrotic cell death
+C0598282|GO|GO:0007399|nervous system development
+C1327471|GO|GO:0050877|nervous system process
+C0814002|GO|GO:0022008|neurogenesis
+C0599444|GO|GO:0043025|neuronal cell body
+C2756001|GO|GO:0023041|neuronal signal transduction
+C1660771|GO|GO:0051402|neuron apoptotic process
+C2754100|GO|GO:0070997|neuron death
+C1159970|GO|GO:0030182|neuron differentiation
+C0682678|GO|GO:0097458|neuron part
+C0085103|GO|GO:0043005|neuron projection
+C0598964|GO|GO:0007269|neurotransmitter secretion
+C0312860|GO|GO:1990266|neutrophil migration
+C1157570|GO|GO:0006809|nitric oxide biosynthetic process
+C0524550|GO|GO:0006289|nucleotide-excision repair
+C1158831|GO|GO:0006730|one-carbon metabolic process
+C0029219|GO|GO:0043226|organelle
+C1522852|GO|GO:0048308|organelle inheritance
+C1154917|GO|GO:0019637|organophosphate metabolic process
+C0029433|GO|GO:0001503|ossification
+C1159978|GO|GO:0030316|osteoclast differentiation
+C1167331|GO|GO:0019867|outer membrane
+C0030012|GO|GO:0055114|oxidation-reduction process
+C0030013|GO|GO:0006119|oxidative phosphorylation
+C1151028|GO|GO:0016491|oxidoreductase activity
+C0525011|GO|GO:0038001|paracrine signaling
+C0005615|GO|GO:0007567|parturition
+C0699748|GO|GO:0009405|pathogenesis
+C0030892|GO|GO:0006098|pentose-phosphate shunt
+C1150095|GO|GO:0008233|peptidase activity
+C1327133|GO|GO:0043043|peptide biosynthetic process
+C1159123|GO|GO:0018119|peptidyl-cysteine S-nitrosylation
+C0599444|GO|GO:0043204|perikaryon
+C0752063|GO|GO:0005777|peroxisome
+C0031308|GO|GO:0006909|phagocytosis
+C1149842|GO|GO:0004623|phospholipase A2 activity
+C1149848|GO|GO:0004629|phospholipase C activity
+C1158419|GO|GO:0006644|phospholipid metabolic process
+C1149927|GO|GO:0004721|phosphoprotein phosphatase activity
+C0031715|GO|GO:0016310|phosphorylation
+C1522821|GO|GO:0045851|pH reduction
+C0007603|GO|GO:0005886|plasma membrane
+C0206524|GO|GO:0009536|plastid
+C0032173|GO|GO:0030168|platelet activation
+C1156931|GO|GO:0006595|polyamine metabolic process
+C1326292|GO|GO:0046931|pore complex assembly
+C1326205|GO|GO:0043065|positive regulation of apoptotic process
+C1516338|GO|GO:0010942|positive regulation of cell death
+C3158980|GO|GO:0035794|positive regulation of mitochondrial membrane permeability
+C1523116|GO|GO:0051092|positive regulation of NF-kappaB transcription factor activity
+C2755722|GO|GO:0090303|positive regulation of wound healing
+C1136031|GO|GO:0016441|posttranscriptional gene silencing
+C0033666|GO|GO:0043687|post-translational protein modification
+C0162638|GO|GO:0012501|programmed cell death
+C1156728|GO|GO:0006562|proline catabolic process
+C1623036|GO|GO:0030163|protein catabolic process
+C1523273|GO|GO:0051259|protein complex oligomerization
+C1157996|GO|GO:0016579|protein deubiquitination
+C0162847|GO|GO:0006457|protein folding
+C0376322|GO|GO:0006486|protein glycosylation
+C0597299|GO|GO:0019538|protein metabolic process
+C1159301|GO|GO:0018158|protein oxidation
+C0162766|GO|GO:0018342|protein prenylation
+C0033666|GO|GO:0016485|protein processing
+C1158944|GO|GO:0042026|protein refolding
+C0599895|GO|GO:0015031|protein transport
+C1519751|GO|GO:0016567|protein ubiquitination
+C0597304|GO|GO:0006508|proteolysis
+C1158678|GO|GO:0006163|purine nucleotide metabolic process
+C1152840|GO|GO:0001614|purinergic nucleotide receptor activity
+C1158861|GO|GO:0006090|pyruvate metabolic process
+C3550269|GO|GO:0150103|reactive gliosis
+C3894443|GO|GO:1903409|reactive oxygen species biosynthetic process
+C0597361|GO|GO:0006898|receptor-mediated endocytosis
+C0034963|GO|GO:0031099|regeneration
+C2265640|GO|GO:0010506|regulation of autophagy
+C1327622|GO|GO:0050789|regulation of biological process
+C0678863|GO|GO:0008217|regulation of blood pressure
+C1155872|GO|GO:0051726|regulation of cell cycle
+C1155872|GO|GO:0010564|regulation of cell cycle process
+C0017263|GO|GO:0010468|regulation of gene expression
+C1816451|GO|GO:0051881|regulation of mitochondrial membrane potential
+C0007581|GO|GO:0090399|replicative senescence
+C0035150|GO|GO:0000003|reproduction
+C0035154|GO|GO:0019098|reproductive behavior
+C0683154|GO|GO:0042493|response to drug
+C1154544|GO|GO:0009725|response to hormone
+C1159441|GO|GO:0001666|response to hypoxia
+C1155312|GO|GO:0006979|response to oxidative stress
+C0149784|GO|GO:0006950|response to stress
+C1167298|GO|GO:1990904|ribonucleoprotein complex
+C1136031|GO|GO:0016246|RNA interference
+C0683143|GO|GO:0016070|RNA metabolic process
+C0035687|GO|GO:0008380|RNA splicing
+C0230779|GO|GO:0005791|rough endoplasmic reticulum
+C0036658|GO|GO:0007600|sensory perception
+C0037361|GO|GO:0007608|sensory perception of smell
+C0018767|GO|GO:0007605|sensory perception of sound
+C0025265|GO|GO:0007614|short-term memory
+C0037083|GO|GO:0007165|signal transduction
+C0037313|GO|GO:0030431|sleep
+C1135918|GO|GO:0030485|smooth muscle contractile fiber
+C1153540|GO|GO:0005484|SNAP receptor activity
+C1153543|GO|GO:0005483|soluble NSF attachment protein activity
+C0080129|GO|GO:0051320|S phase
+C1158438|GO|GO:0006665|sphingolipid metabolic process
+C1149875|GO|GO:0004767|sphingomyelin phosphodiesterase activity
+C1167195|GO|GO:0005914|spot adherens junction
+C0597513|GO|GO:0006694|steroid biosynthetic process
+C1156769|GO|GO:0000098|sulfur amino acid catabolic process
+C0039062|GO|GO:0045202|synapse
+C0597545|GO|GO:0007416|synapse assembly
+C0598501|GO|GO:0007129|synapsis
+C0682685|GO|GO:0043083|synaptic cleft
+C0039063|GO|GO:0097060|synaptic membrane
+C0234097|GO|GO:0007271|synaptic transmission, cholinergic
+C1523698|GO|GO:0035249|synaptic transmission, glutamatergic
+C0039065|GO|GO:0008021|synaptic vesicle
+C1325174|GO|GO:0050321|tau-protein kinase activity
+C1148756|GO|GO:0003720|telomerase activity
+C1155299|GO|GO:0000723|telomere maintenance
+C0206181|GO|GO:0043195|terminal bouton
+C1158221|GO|GO:0042357|thiamine diphosphate metabolic process
+C1150646|GO|GO:0004788|thiamine diphosphokinase activity
+C0221145|GO|GO:0002574|thrombocyte differentiation
+C0242358|GO|GO:0070160|tight junction
+C1149367|GO|GO:0008134|transcription factor binding
+C0597601|GO|GO:0045056|transcytosis
+C1160185|GO|GO:0009293|transduction
+C0887838|GO|GO:0005802|trans-Golgi network
+C0597295|GO|GO:0006412|translation
+C1519613|GO|GO:0006413|translational initiation
+C1519624|GO|GO:0055085|transmembrane transport
+C0027793|GO|GO:0019226|transmission of nerve impulse
+C1159788|GO|GO:0046794|transport of virus
+C1156853|GO|GO:0019346|transsulfuration
+C0008858|GO|GO:0006099|tricarboxylic acid cycle
+C3157088|GO|GO:0097050|type B pancreatic cell apoptotic process
+C0042219|GO|GO:0005773|vacuole
+C0042396|GO|GO:0042310|vasoconstriction
+C0042401|GO|GO:0042311|vasodilation
+C0597640|GO|GO:1990029|vasomotion
+C1622418|GO|GO:0031982|vesicle
+C1167518|GO|GO:0019013|viral nucleocapsid
+C0042760|GO|GO:0019012|virion
+C0582587|GO|GO:0008542|visual learning
+C0042789|GO|GO:0007601|visual perception
+C0043240|GO|GO:0042060|wound healing
+C0043292|GO|GO:0000805|X chromosome
+C0162871|HPO|HP:0005112|Abdominal aortic aneurysm
+C0311277|HPO|HP:0012743|Abdominal obesity
+C0013363|HPO|HP:0012332|Abnormal autonomic nervous system physiology
+C0234133|HPO|HP:0002071|Abnormality of extrapyramidal motor function
+C4021734|HPO|HP:0003287|Abnormality of mitochondrial metabolism
+C0026650|HPO|HP:0100022|Abnormality of movement
+C0948163|HPO|HP:0002500|Abnormality of the cerebral white matter
+C0151583|HPO|HP:0002921|Abnormality of the cerebrospinal fluid
+C0005779|HPO|HP:0003256|Abnormality of the coagulation cascade
+C0241657|HPO|HP:0002597|Abnormality of the vasculature
+C0240083|HPO|HP:0001367|Abnormal joint morphology
+C0035300|HPO|HP:0000479|Abnormal retinal morphology
+C0000833|HPO|HP:0025615|Abscess
+C0022602|HPO|HP:0025127|Actinic keratosis
+C0023467|HPO|HP:0004808|Acute myeloid leukemia
+C0023487|HPO|HP:0004836|Acute promyelocytic leukemia
+C0022672|HPO|HP:0008682|Acute tubular necrosis
+C0085281|HPO|HP:0030858|Addictive behavior
+C0392760|HPO|HP:0032320|Affected
+C0175754|HPO|HP:0001274|Agenesis of corpus callosum
+C0436331|HPO|HP:0025285|Aggravated by
+C0001807|HPO|HP:0000718|Aggressive behavior
+C0085631|HPO|HP:0000713|Agitation
+C0085623|HPO|HP:0002304|Akinesia
+C0001925|HPO|HP:0012592|Albuminuria
+C0001973|HPO|HP:0030955|Alcoholism
+C0020517|HPO|HP:0012393|Allergy
+C0002395|HPO|HP:0002511|Alzheimer disease
+C0002726|HPO|HP:0011034|Amyloidosis
+C0002736|HPO|HP:0007354|Amyotrophic lateral sclerosis
+C0002871|HPO|HP:0001903|Anemia
+C0002962|HPO|HP:0001681|Angina pectoris
+C0178417|HPO|HP:0012154|Anhedonia
+C0221278|HPO|HP:0011273|Anisocytosis
+C0003123|HPO|HP:0002039|Anorexia
+C0003126|HPO|HP:0000458|Anosmia
+C0003467|HPO|HP:0000739|Anxiety
+C3178782|HPO|HP:0030965|Aortic stiffness
+C0085632|HPO|HP:0000741|Apathy
+C0003537|HPO|HP:0002381|Aphasia
+C0003635|HPO|HP:0002186|Apraxia
+C0750929|HPO|HP:0007099|Arnold-Chiari type I malformation
+C0003811|HPO|HP:0011675|Arrhythmia
+C0002949|HPO|HP:0005294|Arterial dissection
+C0003864|HPO|HP:0001369|Arthritis
+C0022408|HPO|HP:0003040|Arthropathy
+C0032290|HPO|HP:0011951|Aspiration pneumonia
+C0004093|HPO|HP:0025406|Asthenia
+C0004096|HPO|HP:0002099|Asthma
+C0004114|HPO|HP:0009592|Astrocytoma
+C3887640|HPO|HP:0002446|Astrocytosis
+C0007758|HPO|HP:0001251|Ataxia
+C0004153|HPO|HP:0002621|Atherosclerosis
+C0011615|HPO|HP:0001047|Atopic dermatitis
+C0004238|HPO|HP:0005110|Atrial fibrillation
+C0004239|HPO|HP:0004749|Atrial flutter
+C0004245|HPO|HP:0001678|Atrioventricular block
+C1263846|HPO|HP:0007018|Attention deficit hyperactivity disorder
+C0233762|HPO|HP:0008765|Auditory hallucinations
+C0004352|HPO|HP:0000717|Autism
+C0004368|HPO|HP:0002960|Autoimmunity
+C0544966|HPO|HP:0003736|Autophagic vacuoles
+C0004610|HPO|HP:0031864|Bacteremia
+C0233514|HPO|HP:0000708|Behavioral abnormality
+C0238767|HPO|HP:0012832|Bilateral
+C0005586|HPO|HP:0007302|Bipolar affective disorder
+C0456909|HPO|HP:0000618|Blindness
+C0005810|HPO|HP:0032223|Blood group
+C0005937|HPO|HP:0012062|Bone cyst
+C0016658|HPO|HP:0020110|Bone fracture
+C0015732|HPO|HP:0002607|Bowel incontinence
+C0428977|HPO|HP:0001662|Bradycardia
+C0233565|HPO|HP:0002067|Bradykinesia
+C4551584|HPO|HP:0012444|Brain atrophy
+C0678222|HPO|HP:0003002|Breast carcinoma
+C0007097|HPO|HP:0030731|Carcinoma
+C0018790|HPO|HP:0001695|Cardiac arrest
+C0878544|HPO|HP:0001638|Cardiomyopathy
+C0011334|HPO|HP:0000670|Carious teeth
+C0007282|HPO|HP:0100546|Carotid artery stenosis
+C0086543|HPO|HP:0000518|Cataract
+C0007570|HPO|HP:0002608|Celiac disease
+C0085220|HPO|HP:0011970|Cerebral amyloid angiopathy
+C0235946|HPO|HP:0002059|Cerebral atrophy
+C0154671|HPO|HP:0007313|Cerebral degeneration
+C0006114|HPO|HP:0002181|Cerebral edema
+C2937358|HPO|HP:0001342|Cerebral hemorrhage
+C0917798|HPO|HP:0002637|Cerebral ischemia
+C0007815|HPO|HP:0030998|Cerebrospinal fluid rhinorrhoea
+C0008350|HPO|HP:0001081|Cholelithiasis
+C0008489|HPO|HP:0002072|Chorea
+C0600518|HPO|HP:0011506|Choroidal neovascularization
+C0376628|HPO|HP:0040012|Chromosome breakage
+C0205191|HPO|HP:0011010|Chronic
+C0008677|HPO|HP:0004469|Chronic bronchitis
+C0151317|HPO|HP:0031035|Chronic infection
+C1561643|HPO|HP:0012622|Chronic kidney disease
+C0024117|HPO|HP:0006510|Chronic obstructive pulmonary disease
+C0150055|HPO|HP:0012532|Chronic pain
+C0149516|HPO|HP:0011109|Chronic sinusitis
+C0023890|HPO|HP:0001394|Cirrhosis
+C0003492|HPO|HP:0001680|Coarctation of aorta
+C0338656|HPO|HP:0100543|Cognitive impairment
+C0007102|HPO|HP:0003003|Colon cancer
+C0949059|HPO|HP:0200063|Colorectal polyposis
+C0271790|HPO|HP:0008223|Compensated hypothyroidism
+C0009676|HPO|HP:0001289|Confusion
+C0018802|HPO|HP:0001635|Congestive heart failure
+C0009806|HPO|HP:0002019|Constipation
+C0010036|HPO|HP:0001131|Corneal dystrophy
+C0010054|HPO|HP:0001677|Coronary artery atherosclerosis
+C1611184|HPO|HP:0001717|Coronary artery calcification
+C0242231|HPO|HP:0005145|Coronary artery stenosis
+C0010278|HPO|HP:0001363|Craniosynostosis
+C0010346|HPO|HP:0100280|Crohn's disease
+C0079773|HPO|HP:0012192|Cutaneous T-cell lymphoma
+C1262477|HPO|HP:0004325|Decreased body weight
+C0268070|HPO|HP:0011967|Decreased circulating copper concentration
+C0456892|HPO|HP:0012641|Decreased intracranial pressure
+C4293685|HPO|HP:0030892|Deep cerebral white matter hyperdensities
+C0149871|HPO|HP:0002625|Deep venous thrombosis
+C0011175|HPO|HP:0001944|Dehydration
+C0011206|HPO|HP:0031258|Delirium
+C0011253|HPO|HP:0000746|Delusions
+C0497327|HPO|HP:0000726|Dementia
+C0011581|HPO|HP:0000716|Depressivity
+C0011849|HPO|HP:0000819|Diabetes mellitus
+C0011880|HPO|HP:0001953|Diabetic ketoacidosis
+C0521532|HPO|HP:0009113|Diaphragmatic weakness
+C0205219|HPO|HP:0020034|Diffuse
+C0002940|HPO|HP:0002617|Dilatation
+C0235198|HPO|HP:0031987|Diminished ability to concentrate
+C0013144|HPO|HP:0002329|Drowsiness
+C1260959|HPO|HP:0011510|Drusen
+C0234979|HPO|HP:0002075|Dysdiadochokinesis
+C0013384|HPO|HP:0100660|Dyskinesia
+C0476254|HPO|HP:0010522|Dyslexia
+C0011168|HPO|HP:0002015|Dysphagia
+C0013404|HPO|HP:0002094|Dyspnea
+C0004134|HPO|HP:0010867|Dyssynergia
+C0013421|HPO|HP:0001332|Dystonia
+C0013537|HPO|HP:0100601|Eclampsia
+C0013604|HPO|HP:0000969|Edema
+C0151611|HPO|HP:0002353|EEG abnormality
+C0085633|HPO|HP:0000712|Emotional lability
+C0014038|HPO|HP:0002383|Encephalitis
+C0085584|HPO|HP:0001298|Encephalopathy
+C0014118|HPO|HP:0100584|Endocarditis
+C0014175|HPO|HP:0030127|Endometriosis
+C0014394|HPO|HP:0000805|Enuresis
+C0235146|HPO|HP:0031844|Euphoria
+C0694563|HPO|HP:0001262|Excessive daytime somnolence
+C0332196|HPO|HP:0040285|Excluded
+C0015469|HPO|HP:0007209|Facial paralysis
+C0085639|HPO|HP:0002527|Falls
+C0241889|HPO|HP:0032316|Family history
+C1864954|HPO|HP:0008283|Fasting hyperinsulinemia
+C0015672|HPO|HP:0012378|Fatigue
+C0015967|HPO|HP:0001945|Fever
+C0016382|HPO|HP:0031284|Flushing
+C0205234|HPO|HP:0030650|Focal
+C0016399|HPO|HP:0011153|Focal motor seizure
+C0751495|HPO|HP:0007359|Focal-onset seizure
+C0332183|HPO|HP:0040282|Frequent
+C0338451|HPO|HP:0002145|Frontotemporal dementia
+C1260922|HPO|HP:0002795|Functional respiratory abnormality
+C1510417|HPO|HP:0010521|Gait apraxia
+C0575081|HPO|HP:0001288|Gait disturbance
+C0205246|HPO|HP:0012837|Generalized
+C0234533|HPO|HP:0002197|Generalized-onset seizure
+C1536085|HPO|HP:0031609|Geographic atrophy
+C0017601|HPO|HP:0000501|Glaucoma
+C0017638|HPO|HP:0009733|Glioma
+C0017639|HPO|HP:0002171|Gliosis
+C0271650|HPO|HP:0001952|Glucose intolerance
+C0018099|HPO|HP:0001997|Gout
+C0333454|HPO|HP:0002528|Granulovacuolar degeneration
+C0262361|HPO|HP:0001507|Growth abnormality
+C0018524|HPO|HP:0000738|Hallucinations
+C0018681|HPO|HP:0002315|Headache
+C1384666|HPO|HP:0000365|Hearing impairment
+C0206734|HPO|HP:0010797|Hemangioblastoma
+C0272285|HPO|HP:0011874|Heparin-induced thrombocytopenia
+C0019151|HPO|HP:0002480|Hepatic encephalopathy
+C0085605|HPO|HP:0001399|Hepatic failure
+C0239946|HPO|HP:0001395|Hepatic fibrosis
+C0019158|HPO|HP:0012115|Hepatitis
+C2239176|HPO|HP:0001402|Hepatocellular carcinoma
+C0019209|HPO|HP:0002240|Hepatomegaly
+C0019270|HPO|HP:0100790|Hernia
+C0276226|HPO|HP:0020098|Herpes encephalitis
+C0276226|HPO|HP:0012302|Herpes simplex encephalitis
+C0242960|HPO|HP:0001425|Heterogeneous
+C4315130|HPO|HP:0410170|Hippocampal atrophy
+C0019829|HPO|HP:0012189|Hodgkin lymphoma
+C0019880|HPO|HP:0002156|Homocystinuria
+C0600142|HPO|HP:0031217|Hot flashes
+C0020255|HPO|HP:0000238|Hydrocephalus
+C0424295|HPO|HP:0000752|Hyperactivity
+C0020437|HPO|HP:0003072|Hypercalcemia
+C0020440|HPO|HP:0012416|Hypercapnia
+C0020443|HPO|HP:0003124|Hypercholesterolemia
+C0398623|HPO|HP:0100724|Hypercoagulability
+C0020456|HPO|HP:0003074|Hyperglycemia
+C0020459|HPO|HP:0000842|Hyperinsulinemia
+C0235430|HPO|HP:0410175|Hyperketonemia
+C0268576|HPO|HP:0010911|Hyperleucinemia
+C0020473|HPO|HP:0003077|Hyperlipidemia
+C0020502|HPO|HP:0000843|Hyperparathyroidism
+C0085681|HPO|HP:0002905|Hyperphosphatemia
+C0014173|HPO|HP:0040298|Hyperplasia of the endometrium
+C0268528|HPO|HP:0008358|Hyperprolinemia
+C0151889|HPO|HP:0001347|Hyperreflexia
+C0917799|HPO|HP:0100786|Hypersomnia
+C0020538|HPO|HP:0000822|Hypertension
+C0020550|HPO|HP:0000836|Hyperthyroidism
+C0740394|HPO|HP:0002149|Hyperuricemia
+C0151718|HPO|HP:0003146|Hypocholesterolemia
+C0020615|HPO|HP:0001943|Hypoglycemia
+C0020619|HPO|HP:0000135|Hypogonadism
+C2748055|HPO|HP:0040216|Hypoinsulinemia
+C0086439|HPO|HP:0002375|Hypokinesia
+C0342892|HPO|HP:0045014|Hypolipidemia
+C0020625|HPO|HP:0002902|Hyponatremia
+C0151891|HPO|HP:0007894|Hypopigmentation of the fundus
+C0162835|HPO|HP:0001010|Hypopigmentation of the skin
+C0235546|HPO|HP:0040213|Hypopnea
+C0020649|HPO|HP:0002615|Hypotension
+C0020672|HPO|HP:0002045|Hypothermia
+C0020676|HPO|HP:0000821|Hypothyroidism
+C0020683|HPO|HP:0031274|Hypovolemic shock
+C0700292|HPO|HP:0012418|Hypoxemia
+C0021051|HPO|HP:0002721|Immunodeficiency
+C0242350|HPO|HP:0000802|Impotence
+C0021125|HPO|HP:0100710|Impulsivity
+C0520966|HPO|HP:0002311|Incoordination
+C0497247|HPO|HP:0032263|Increased blood pressure
+C0043094|HPO|HP:0004324|Increased body weight
+C4083076|HPO|HP:0040194|Increased head circumference
+C0021359|HPO|HP:0000789|Infertility
+C0917801|HPO|HP:0100785|Insomnia
+C0021655|HPO|HP:0000855|Insulin resistance
+C3714756|HPO|HP:0001249|Intellectual disability
+C0151699|HPO|HP:0002170|Intracranial hemorrhage
+C0349604|HPO|HP:0100009|Intracranial meningioma
+C0015934|HPO|HP:0001511|Intrauterine growth retardation
+C0240059|HPO|HP:0030746|Intraventricular hemorrhage
+C0162316|HPO|HP:0001891|Iron deficiency anemia
+C0948008|HPO|HP:0002140|Ischemic stroke
+C0012691|HPO|HP:0001373|Joint dislocation
+C0022575|HPO|HP:0001097|Keratoconjunctivitis sicca
+C0220982|HPO|HP:0001993|Ketoacidosis
+C0022638|HPO|HP:0001946|Ketosis
+C0409959|HPO|HP:0005086|Knee osteoarthritis
+C0023015|HPO|HP:0002463|Language impairment
+C4025592|HPO|HP:0003584|Late onset
+C0149721|HPO|HP:0001712|Left ventricular hypertrophy
+C0023418|HPO|HP:0001909|Leukemia
+C0023520|HPO|HP:0002415|Leukodystrophy
+C0270612|HPO|HP:0002352|Leukoencephalopathy
+C0085200|HPO|HP:0100315|Lewy bodies
+C0023827|HPO|HP:0012034|Liposarcoma
+C0041657|HPO|HP:0007185|Loss of consciousness
+C0024031|HPO|HP:0003419|Low back pain
+C0042842|HPO|HP:0004905|Low levels of vitamin A
+C0003969|HPO|HP:0100510|Low levels of vitamin C
+C0042870|HPO|HP:0100512|Low levels of vitamin D
+C0024299|HPO|HP:0002665|Lymphoma
+C0024437|HPO|HP:0000608|Macular degeneration
+C0332573|HPO|HP:0012733|Macule
+C0151721|HPO|HP:0000026|Male hypogonadism
+C0021364|HPO|HP:0003251|Male infertility
+C0685938|HPO|HP:0006749|Malignant gastrointestinal tract tumors
+C0162429|HPO|HP:0004395|Malnutrition
+C0085207|HPO|HP:0009800|Maternal diabetes
+C0002888|HPO|HP:0001889|Megaloblastic anemia
+C0025202|HPO|HP:0002861|Melanoma
+C0233794|HPO|HP:0002354|Memory impairment
+C0025286|HPO|HP:0002858|Meningioma
+C0025289|HPO|HP:0001287|Meningitis
+C0025637|HPO|HP:0012119|Methemoglobinemia
+C0025874|HPO|HP:0100608|Metrorrhagia
+C0730345|HPO|HP:0012594|Microalbuminuria
+C0149931|HPO|HP:0002076|Migraine
+C2945599|HPO|HP:0012825|Mild
+C0085633|HPO|HP:0001575|Mood changes
+C0085633|HPO|HP:0000720|Mood swings
+C0026764|HPO|HP:0006775|Multiple myeloma
+C0151786|HPO|HP:0001324|Muscle weakness
+C0026850|HPO|HP:0003560|Muscular dystrophy
+C0026961|HPO|HP:0011499|Mydriasis
+C0027051|HPO|HP:0001658|Myocardial infarction
+C0027066|HPO|HP:0001336|Myoclonus
+C0026848|HPO|HP:0003198|Myopathy
+C0027404|HPO|HP:0030050|Narcolepsy
+C0027497|HPO|HP:0002018|Nausea
+C0007859|HPO|HP:0030833|Neck pain
+C0027651|HPO|HP:0002664|Neoplasm
+C0085136|HPO|HP:0100006|Neoplasm of the central nervous system
+C0022658|HPO|HP:0000112|Nephropathy
+C0027794|HPO|HP:0045005|Neural tube defect
+C0027813|HPO|HP:0031002|Neuritis
+C0027819|HPO|HP:0003006|Neuroblastoma
+C0027746|HPO|HP:0002180|Neurodegeneration
+C0085400|HPO|HP:0002185|Neurofibrillary tangles
+C0028734|HPO|HP:0000017|Nocturia
+C1843643|HPO|HP:0002877|Nocturnal hypoventilation
+C0024305|HPO|HP:0012539|Non-Hodgkin lymphoma
+C0007131|HPO|HP:0030358|Non-small cell lung carcinoma
+C0020258|HPO|HP:0002343|Normal pressure hydrocephalus
+C0028754|HPO|HP:0001513|Obesity
+C0600104|HPO|HP:0000722|Obsessive-compulsive behavior
+C0520679|HPO|HP:0002870|Obstructive sleep apnea
+C0234708|HPO|HP:0007906|Ocular hypertension
+C0033074|HPO|HP:0040113|Old-aged sensorineural hearing impairment
+C0206132|HPO|HP:0003674|Onset
+C0017612|HPO|HP:0012108|Open angle glaucoma
+C0149745|HPO|HP:0000155|Oral ulcer
+C0020651|HPO|HP:0001278|Orthostatic hypotension
+C0029408|HPO|HP:0002758|Osteoarthritis
+C0029442|HPO|HP:0002749|Osteomalacia
+C0029456|HPO|HP:0000939|Osteoporosis
+C0497406|HPO|HP:0025502|Overweight
+C0030193|HPO|HP:0012531|Pain
+C0030305|HPO|HP:0001733|Pancreatitis
+C0522224|HPO|HP:0003470|Paralysis
+C1456784|HPO|HP:0011999|Paranoia
+C0030554|HPO|HP:0003401|Paresthesia
+C0242422|HPO|HP:0001300|Parkinsonism
+C0235480|HPO|HP:0004757|Paroxysmal atrial fibrillation
+C0030920|HPO|HP:0004398|Peptic ulcer
+C0031039|HPO|HP:0001698|Pericardial effusion
+C0332182|HPO|HP:0025304|Periodic
+C0031099|HPO|HP:0000704|Periodontitis
+C0205100|HPO|HP:0030646|Peripheral
+C0085649|HPO|HP:0012398|Peripheral edema
+C1853618|HPO|HP:0012520|Perivascular spaces
+C4293686|HPO|HP:0030891|Periventricular white matter hyperdensities
+C0233651|HPO|HP:0030223|Perseveration
+C1837514|HPO|HP:0003812|Phenotypic variability
+C0032285|HPO|HP:0002090|Pneumonia
+C0022680|HPO|HP:0000113|Polycystic kidney dysplasia
+C0032460|HPO|HP:0000147|Polycystic ovaries
+C1148552|HPO|HP:0010982|Polygenic inheritance
+C0152025|HPO|HP:0001271|Polyneuropathy
+C1504336|HPO|HP:0025569|Polypoidal choroidal vasculopathy
+C0032617|HPO|HP:0000103|Polyuria
+C0232462|HPO|HP:0004396|Poor appetite
+C4019252|HPO|HP:0012830|Position
+C0032914|HPO|HP:0100602|Preeclampsia
+C0151526|HPO|HP:0001622|Premature birth
+C0025322|HPO|HP:0008209|Premature ovarian insufficiency
+C0011127|HPO|HP:0012399|Pressure ulcer
+C0240421|HPO|HP:0003323|Progressive muscle weakness
+C0151878|HPO|HP:0001657|Prolonged QT interval
+C0376358|HPO|HP:0012125|Prostate cancer
+C0033687|HPO|HP:0000093|Proteinuria
+C0205107|HPO|HP:0012840|Proximal
+C0221629|HPO|HP:0003701|Proximal muscle weakness
+C0033975|HPO|HP:0000709|Psychosis
+C0239998|HPO|HP:0002719|Recurrent infections
+C0016412|HPO|HP:0100507|Reduced blood folate concentration
+C0151650|HPO|HP:0030760|Renal fibrosis
+C1565489|HPO|HP:0000083|Renal insufficiency
+C0151747|HPO|HP:0000124|Renal tubular dysfunction
+C0162297|HPO|HP:0005943|Respiratory arrest
+C1145670|HPO|HP:0002878|Respiratory failure
+C0035243|HPO|HP:0011947|Respiratory tract infection
+C0035258|HPO|HP:0012452|Restless legs
+C0035304|HPO|HP:0000546|Retinal degeneration
+C0035309|HPO|HP:0000488|Retinopathy
+C0003873|HPO|HP:0001370|Rheumatoid arthritis
+C1260880|HPO|HP:0031417|Rhinorrhea
+C0035579|HPO|HP:0002748|Rickets
+C0026837|HPO|HP:0002063|Rigidity
+C0035651|HPO|HP:0031472|Risk taking
+C1261473|HPO|HP:0100242|Sarcoma
+C0237849|HPO|HP:0040189|Scaling skin
+C0036341|HPO|HP:0100753|Schizophrenia
+C0036454|HPO|HP:0000575|Scotoma
+C0022603|HPO|HP:0031287|Seborrheic keratosis
+C0036572|HPO|HP:0001250|Seizures
+C0424359|HPO|HP:0025479|Self-neglect
+C0338462|HPO|HP:0030219|Semantic dementia
+C0333463|HPO|HP:0100256|Senile plaques
+C0036690|HPO|HP:0100806|Sepsis
+C0036974|HPO|HP:0031273|Shock
+C0521525|HPO|HP:0000470|Short neck
+C0037199|HPO|HP:0000246|Sinusitis
+C0015230|HPO|HP:0000988|Skin rash
+C0037315|HPO|HP:0010535|Sleep apnea
+C0037317|HPO|HP:0002360|Sleep disturbance
+C0037384|HPO|HP:0025267|Snoring
+C0544886|HPO|HP:0001428|Somatic mutation
+C0023882|HPO|HP:0001264|Spastic diplegia
+C0037772|HPO|HP:0001258|Spastic paraplegia
+C0026847|HPO|HP:0007269|Spinal muscular atrophy
+C0087012|HPO|HP:0007263|Spinocerebellar atrophy
+C0038220|HPO|HP:0002133|Status epilepticus
+C0038273|HPO|HP:0000733|Stereotypy
+C0595939|HPO|HP:0003826|Stillbirth
+C0024623|HPO|HP:0012126|Stomach cancer
+C0042025|HPO|HP:0010992|Stress urinary incontinence
+C0038450|HPO|HP:0010307|Stridor
+C0038454|HPO|HP:0001297|Stroke
+C0038525|HPO|HP:0002138|Subarachnoid hemorrhage
+C0018946|HPO|HP:0100309|Subdural hemorrhage
+C0011071|HPO|HP:0001699|Sudden death
+C0424000|HPO|HP:0031589|Suicidal ideation
+C0039240|HPO|HP:0004755|Supraventricular tachycardia
+C0039070|HPO|HP:0001279|Syncope
+C0024141|HPO|HP:0002725|Systemic lupus erythematosus
+C0039231|HPO|HP:0001649|Tachycardia
+C0686347|HPO|HP:0040141|Tardive dyskinesia
+C0033893|HPO|HP:0012228|Tension-type headache
+C0040038|HPO|HP:0001907|Thromboembolism
+C0549473|HPO|HP:0002890|Thyroid carcinoma
+C0040264|HPO|HP:0000360|Tinnitus
+C0040479|HPO|HP:0001664|Torsade de pointes
+C0085758|HPO|HP:0011286|Total colonic aganglionosis
+C0917805|HPO|HP:0002326|Transient ischemic attack
+C0040822|HPO|HP:0001337|Tremor
+C1444748|HPO|HP:0025204|Triggered by
+C0155017|HPO|HP:0000552|Tritanomaly
+C0011854|HPO|HP:0100651|Type I diabetes mellitus
+C0011860|HPO|HP:0005978|Type II diabetes mellitus
+C0009324|HPO|HP:0100279|Ulcerative colitis
+C0042024|HPO|HP:0000020|Urinary incontinence
+C0080274|HPO|HP:0000016|Urinary retention
+C0042133|HPO|HP:0000131|Uterine leiomyoma
+C0042384|HPO|HP:0002633|Vasculitis
+C0085616|HPO|HP:0025637|Vasospasm
+C0042487|HPO|HP:0004936|Venous thrombosis
+C0042514|HPO|HP:0004756|Ventricular tachycardia
+C1848606|HPO|HP:0001756|Vestibular hypofunction
+C0554101|HPO|HP:0011473|Villous atrophy
+C0424323|HPO|HP:0008760|Violent behavior
+C0042721|HPO|HP:0006562|Viral hepatitis
+C0233763|HPO|HP:0002367|Visual hallucinations
+C1262477|HPO|HP:0001824|Weight loss
+C0043352|HPO|HP:0000217|Xerostomia
