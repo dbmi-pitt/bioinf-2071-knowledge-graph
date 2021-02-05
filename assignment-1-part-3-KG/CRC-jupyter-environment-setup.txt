@@ -1,3 +1,11 @@
+#### ALSO NOTE THAT THIS LINK IS TO A VIDEO EXPLAINING THE WORKBOOK
+# https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ffa99514-f32c-457d-ba59-acc50160e876
+
+## Log into the CRC environment using SSH or by starting at terminal after logging into https://hub.crc.pitt.edu/
+
+## !!!Be sure to select the SMB computing node!!!
+
+## Then, run the following commands.
 module purge
 module load python/3.7.0
 conda create -n bionf2071 python=3.7
@@ -7,3 +15,8 @@ conda install -y pandas tensorflow matplotlib scipy networkx more-itertools ipyk
 conda install -y -c conda-forge rdflib
 conda install -y -c conda-forge node2vec
 python -m ipykernel install --user --name=bionf2071
+
+## After these have ran successfully, start a Jupyter notebook session, go to 'change kernel', and select 'bionf2071'
+
+## !!!Don't forget to change the USER_HOME variable to your home folder!!! 
+
