@@ -1,0 +1,9 @@
+module purge
+module load python/3.7.0
+conda create -n bionf2071 python=3.7
+source activate bionf2071
+conda install -y numpy=1.16.1
+conda install -y pandas tensorflow matplotlib scipy networkx more-itertools ipykernel
+conda install -y -c conda-forge rdflib
+conda install -y -c conda-forge node2vec
+python -m ipykernel install --user --name=bionf2071
