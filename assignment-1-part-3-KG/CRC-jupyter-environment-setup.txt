@@ -16,6 +16,12 @@ conda install -y -c conda-forge rdflib
 conda install -y -c conda-forge node2vec
 python -m ipykernel install --user --name=bionf2071
 
+curl -L https://pitt.box.com/shared/static/s418629onvq38wbwsayod0lz2gcejwp1 --output PheKnowLator_full_InverseRelations_NotClosed_OWLNETS_Networkx_MultiDiGraph_REWEIGHT_NO_DISJOINT.gpickle
+
+curl -L https://pitt.box.com/shared/static/dr12h1cc0e80ndpdfwz2xhf5aon9drt8 --output PheKnowLator_full_InverseRelations_NotClosed_NoOWLSemantics_NodeLabels.txt
+
+curl -L https://github.com/dbmi-pitt/bioinf-2071-knowledge-graph/blob/main/assignment-1-part-3-KG/assignment-1-part-III-for-students.ipynb --output assignment-1-part-III-for-students.ipynb
+
 ## After these have ran successfully, start a Jupyter notebook session, go to 'change kernel', and select 'bionf2071'
 
 ## !!!Don't forget to change the USER_HOME variable to your home folder!!! 
