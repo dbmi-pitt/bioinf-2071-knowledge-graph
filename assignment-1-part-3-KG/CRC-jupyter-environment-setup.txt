@@ -20,7 +20,7 @@ curl -L https://pitt.box.com/shared/static/s418629onvq38wbwsayod0lz2gcejwp1 --ou
 
 curl -L https://pitt.box.com/shared/static/dr12h1cc0e80ndpdfwz2xhf5aon9drt8 --output PheKnowLator_full_InverseRelations_NotClosed_NoOWLSemantics_NodeLabels.txt
 
-curl -L https://github.com/dbmi-pitt/bioinf-2071-knowledge-graph/blob/main/assignment-1-part-3-KG/assignment-1-part-III-for-students.ipynb --output assignment-1-part-III-for-students.ipynb
+curl -L https://github.com/dbmi-pitt/bioinf-2071-knowledge-graph/raw/main/assignment-1-part-3-KG/assignment-1-part-III-for-students.ipynb --output assignment-1-part-III-for-students.ipynb
 
 ## After these have ran successfully, start a Jupyter notebook session, go to 'change kernel', and select 'bionf2071'
 
